@@ -1,5 +1,5 @@
 jwt:
-  time: 9000
+  time: 1000
   secret: hello-world
 
 posco:
