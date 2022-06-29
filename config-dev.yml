@@ -3,7 +3,7 @@ jwt:
   secret: hello-world
 
 posco:
-  name: 3기
+  name: 3기2
   count: 20
 
 test:
