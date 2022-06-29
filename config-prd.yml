@@ -1,0 +1,7 @@
+jwt:
+  time: 1000
+  secret: hello-world입니다
+
+posco:
+  name: 3기파이팅
+  count: 20
