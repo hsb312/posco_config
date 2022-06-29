@@ -3,5 +3,5 @@ jwt:
   secret: hello-world
 
 posco:
-  name: "${cipher}e98e609ed0f58ecfb61ff396a03a6b51965bfa3d651ae798f931905a0089b5fc"
+  name: "{cipher}e98e609ed0f58ecfb61ff396a03a6b51965bfa3d651ae798f931905a0089b5fc"
   count: 20
