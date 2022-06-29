@@ -1,5 +1,3 @@
-produc requirement document: 실제 운영 환경 설정
-
 jwt:
   time: 1000
   secret: hello-world입니다
@@ -10,6 +8,6 @@ posco:
 
 test:
   datasource:
-    url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+    url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
     username: posworld
     password: 1234
