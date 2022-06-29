@@ -1,3 +1,5 @@
+produc requirement document: 실제 운영 환경 설정
+
 jwt:
   time: 1000
   secret: hello-world입니다
@@ -5,3 +7,9 @@ jwt:
 posco:
   name: 3기파이팅
   count: 20
+
+test:
+  datasource:
+    url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+    username: posworld
+    password: 1234
