@@ -1,6 +1,6 @@
 jwt:
   time: 1000
-  secret: hello-posco
+  secret: hello-posco입니다.
 
 posco:
   name: "{cipher}e98e609ed0f58ecfb61ff396a03a6b51965bfa3d651ae798f931905a0089b5fc"
